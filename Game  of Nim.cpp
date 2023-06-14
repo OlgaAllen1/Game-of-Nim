@@ -50,10 +50,5 @@ int main()
             cout << "That is not a valid amount."<< endl;
         }
     }
-    
-    
-    
-    
-
 }
 
